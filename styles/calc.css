@@ -15,7 +15,7 @@
     flex-shrink: 1;
     padding: 0.7em;
     border: 2px black solid; 
-    border-radius: 1%; 
+    border-radius: 10%; 
 }
 
 #result{
@@ -23,6 +23,7 @@
     text-align: end;
     align-items:end;
     background-color: blue;
+    border-radius: 0;
 }
 
 #zero{
@@ -42,4 +43,5 @@
     font-size: 200%;
     font-weight: normal;
     font-family: sans-serif;
+    
 }
